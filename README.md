@@ -46,7 +46,7 @@ This power supply utilizes an **X-rated safety capacitor** to drop mains AC volt
 
 | Top View | Bottom View |
 |----------|-------------|
-| ![Top](images/top_view.png) | ![Bottom](images/bottom_view.png) |
+| ![Top](top_view.png) | ![Bottom](bottom_view.png) |
 
 ---
 
