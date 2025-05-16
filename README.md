@@ -1,6 +1,6 @@
 # 🔌 Transformerless Power Supply PCB (2-Layer Design)
 
-![PCB Render]()
+![PCB Render](render.png)
 
 A compact, cost-effective **transformerless AC-DC power supply** PCB, designed on a **2-layer board**, ideal for low-power embedded systems or IoT applications. This design eliminates bulky transformers using capacitive dropper topology.
 
@@ -69,8 +69,8 @@ Contributions are welcome! Feel free to fork this repository, make enhancements,
 ## 📬 Contact
 
 For questions or collaboration:
-- ✉️ Email: `youremail@example.com`
-- 🌐 GitHub: [YourUsername](https://github.com/YourUsername)
+- ✉️ Email: `himanshumouryaa.2004@gmail.com`
+- 🌐 GitHub: [HIMANSHUMOURYADTU](https://github.com/HIMANSHUMOURYADTU)
 
 ---
 
